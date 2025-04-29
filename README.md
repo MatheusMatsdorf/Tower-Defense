@@ -8,7 +8,7 @@
 | Pedro Diniz       | [github.com/PedroPerezDiniz](https://github.com/PedroPerezDiniz)           |
 
 ## Descrição Resumida do Projeto
-É um Tower defense onde o seu objetivo é defender uma torre de inimigos que irão tentar quebrar. Com o dinheiro que ganhar coloque unidadades no mapa para defender a torre e derrotar os inimigos.
+É um Tower Defense onde o seu objetivo é defender uma torre de inimigos que irão tentar quebrar. Com o dinheiro que ganhar coloque unidadades no mapa para defender a torre e derrotar os inimigos.
 
 ## Mecânica Principal
 O objetivo principal é defender a sua torre, evitando que os inimigos cheguem nela e a destruam.
