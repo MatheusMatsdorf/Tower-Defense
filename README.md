@@ -1,4 +1,12 @@
-# Tower-Defense
+#Tower of Hell
+
+## Integrantes
+| Nome              | Github                                                                     |
+|-------------------|----------------------------------------------------------------------------|
+| Matheus Matsdorf  | [github.com/MatheusMatsdorf](https://github.com/MatheusMatsdorf)           |
+| Pedro Henrique    | [github.com/pedrohenriquesaretto](https://github.com/pedrohenriquesaretto) |
+| Pedro Diniz       | [github.com/MatheusMatsdorf](https://github.com/PedroPerezDiniz)           |
+
 
 Mecânica Principal:
 O objetivo principal é defender a sua torre, evitando que os inimigos destruam ela.
