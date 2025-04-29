@@ -43,6 +43,73 @@ Não
 ## Público-alvo
 Todos
 
+# Índices
+
+## Sobre o Jogo
+
+
+## Tecnologias Utilizadas
+
+
+## Como Jogar
+
+
+## Como Executar o Projeto
+
+
+## Funcionalidades
+
+
+## Melhorias Futuras
+
+
+## Autores
+
+
+# Sobre o Jogo
+
+## Qual o Objetivo do Jogo
+
+
+## Qual a Mecânica Principal
+
+
+## Para que Público ele é Direcionado
+
+
+## Qual foi a Motivação para Criá-lo
+
+
+## História dos Personagens
+
+
+## Cenário
+
+
+# Tecnologias
+
+## Tecnologias Utilizadas
+
+
+# Como Jogar
+
+## Regras
+
+
+## Comandos
+
+
+# Como Executar
+
+
+# Funcionalidades
+
+
+# Melhorias Futuras
+
+
+# Autores
+
 
 
 
