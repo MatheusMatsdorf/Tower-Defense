@@ -46,7 +46,7 @@ Todos
 # Índices
 
 ## Sobre o Jogo
-
+Nosso jogo é um Tower Defense, onde inimigos irão surgir de um portal para destruir sua torre, por exemplo, boss, mini-boss e inimigos normais como demônios, você terá unidades para posicionar pelo mapa, cada unidade custa uma certa quantia de gold, inicialmente o jogador terá 600 de gold. O jogador perderá se os inimigos chegarem na torre e destruí-la, mas se sobreviver por 5 minutos o portal sumirá assim vencendo o jogo.
 
 ## Tecnologias Utilizadas
 
