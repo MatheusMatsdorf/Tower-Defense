@@ -1,0 +1,6 @@
+1-life aparecer e desaperecer condicionado ao tempo e quntidade de inimgos mortos
+2-gold matar um inimigo ganhar ouro
+3-colisões (IMPORTANTE!!!!) passar do limite da tela perder 'life'
+4-'time' 5min
+5-Fim de jogo Relacionado a colisões e 'life' e 'time'
+6- aumentar as ordas de inimigos conforme passar o tempo.

@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #222;
+  color: #fff;
+  text-align: center;
+}
+
+canvas {
+  background: #333;
+  display: block;
+  margin: 20px auto;
+  border: 2px solid #fff;
+}
+
+.meu-botao {
+  display: none;
+  background-color: yellow;
+  color: red;
+  padding: 10px 20px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+
+.meu-botao{
+  font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 10px;
+  font-style: normal;
+}
