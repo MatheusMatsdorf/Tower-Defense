@@ -62,7 +62,7 @@ Clique na tela para colocar unidades para defender sua base dos inimigos.
 ...
 
 ## Melhorias Futuras
-Colocar desing dos personagens, mapa, inimigos e base, iremos colocar mais personagens, diferentes tipos de inimigos e novas mecânicas de personagem, como, vender eles.
+Colocar design dos personagens, mapa, inimigos e base, iremos colocar mais personagens, diferentes tipos de inimigos e novas mecânicas de personagem, como, vender eles.
 
 ## Autores
 Matheus Matsdorf, Pedro Saretto e Pedro Perez.
@@ -108,7 +108,7 @@ Clique
 ...
 
 # Melhorias Futuras
-Colocar desing dos personagens, mapa, inimigos e base, iremos colocar mais personagens, diferentes tipos de inimigos e novas mecânicas de personagem, como, vender eles.
+Colocar design dos personagens, mapa, inimigos e base, iremos colocar mais personagens, diferentes tipos de inimigos e novas mecânicas de personagem, como, vender eles.
 
 # Autores
 Matheus Matsdorf, Pedro Saretto e Pedro Perez.
