@@ -14,7 +14,7 @@
 O objetivo principal é defender a sua torre, evitando que os inimigos cheguem nela e a destruam.
 
 ## Como vencer
-O jogador deverá proteger a sua torre dos inimigos por 5 minutos.
+O jogador deverá proteger a sua torre dos inimigos por 3 minutos e 20 segundos.
 
 ## Como perder
 O jogador ira perder se os inimigos chegarem na torre, ou seja, sua torre tem 5 vidas, se 5 inimigos chegarem na torre o jogador perderá.
@@ -29,13 +29,13 @@ Será fase única.
 Por enquanto somente mouse.
 
 ## Visual do jogo
-Uma cidade destruida em chamas.
+Tela preta.
 
 ## Efeitos sonoros
 Nenhum por enquanto.
 
 ## Pontuação/progresso
-...
+Número de inimigos mortos.
 
 ## Dispositivos móveis
 Não
@@ -49,67 +49,69 @@ Todos
 Nosso jogo é um Tower Defense, onde inimigos irão surgir de um portal para destruir sua torre, por exemplo, boss, mini-boss e inimigos normais como demônios, você terá unidades para posicionar pelo mapa, cada unidade custa uma certa quantia de gold, inicialmente o jogador terá 600 de gold. O jogador perderá se os inimigos chegarem na torre e destruí-la, mas se sobreviver por 5 minutos o portal sumirá assim vencendo o jogo.
 
 ## Tecnologias Utilizadas
-
+HTML, CSS e JS
 
 ## Como Jogar
+Clique na tela para colocar unidades para defender sua base dos inimigos.
 
 
 ## Como Executar o Projeto
-
+...
 
 ## Funcionalidades
-
+...
 
 ## Melhorias Futuras
-
+Colocar desing dos personagens, mapa, inimigos e base, iremos colocar mais personagens, diferentes tipos de inimigos e novas mecânicas de personagem, como, vender eles.
 
 ## Autores
+Matheus Matsdorf, Pedro Saretto e Pedro Perez.
 
 
 # Sobre o Jogo
 
 ## Qual o Objetivo do Jogo
-
+Não deixar os inimigos chegarem na base.
 
 ## Qual a Mecânica Principal
-
+Colocar personagens pelo mapa.
 
 ## Para que Público ele é Direcionado
-
+Todos.
 
 ## Qual foi a Motivação para Criá-lo
-
+Nos inspiramos em outros tipos de Tower Defense.
 
 ## História dos Personagens
-
+Bola e quadrado,
 
 ## Cenário
-
+Preto
 
 # Tecnologias
 
 ## Tecnologias Utilizadas
-
+HTML, CSS e JV
 
 # Como Jogar
 
 ## Regras
-
+Não tem por enquanto.
 
 ## Comandos
-
+Clique
 
 # Como Executar
 
 
 # Funcionalidades
-
+...
 
 # Melhorias Futuras
-
+Colocar desing dos personagens, mapa, inimigos e base, iremos colocar mais personagens, diferentes tipos de inimigos e novas mecânicas de personagem, como, vender eles.
 
 # Autores
-
+Matheus Matsdorf, Pedro Saretto e Pedro Perez.
 
 
 
