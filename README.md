@@ -49,6 +49,12 @@ Matheus Matsdorf, Pedro Saretto e Pedro Perez.
 ## Resultados
 <img width="379" alt="image" src="https://github.com/user-attachments/assets/e1ebbb26-b1e2-4099-9631-7ce53ff28358" />
 
+![image](https://github.com/user-attachments/assets/253564c3-b016-44d4-926c-b619dede8808)
+
+![image](https://github.com/user-attachments/assets/89e719a5-1c09-45ec-859f-8764bf348e3a)
+
+
+
 
 
 
