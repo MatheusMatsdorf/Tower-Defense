@@ -46,5 +46,9 @@ Colocar design dos personagens, mapa, inimigos e base, iremos colocar mais perso
 ## Autores
 Matheus Matsdorf, Pedro Saretto e Pedro Perez.
 
+## Resultados
+<img width="379" alt="image" src="https://github.com/user-attachments/assets/e1ebbb26-b1e2-4099-9631-7ce53ff28358" />
+
+
 
 
